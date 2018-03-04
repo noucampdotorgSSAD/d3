@@ -75,9 +75,19 @@
 	
 	Add another value to the ``data`` array and rerun the code.
 
-
 1.	Modify the code so the output includes the text like this:
 
 	![img](../images/barChart3.png)
 
 	Add the text dynamically using JavaScript.
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 Part 2 - DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
