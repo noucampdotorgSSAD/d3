@@ -1,5 +1,8 @@
 # D3 Exercise 1 – SVG
 
+> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
+
+
 ## Clone the Remote Repository
 
 1.	Accept the GitHub Classroom invitation to this exercise @ the module moodle page.
@@ -19,11 +22,7 @@
 
 	Check your ``htdocs`` folder.  You should have a new folder called ``d3`` with some files in it.
 
-
-
-# D3 Exercise 1 - SVG
 		
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
 
 ## Part 1
 
