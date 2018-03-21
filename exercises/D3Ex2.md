@@ -102,7 +102,7 @@ $ git status
 
 ## Part 3
 
-1.	Open the files - ``d3ColumnChartV3.html`` and ``d3ColumnChartV3.js`` and modify the code so the bars appear with the data labels as shown here:
+1.	Open the files - ``d3BarChartV3.html`` and ``d3BarChartV3.js`` and modify the code so the bars appear with the data labels as shown here:
 
 	![img](../images/barChart4.png)
 
